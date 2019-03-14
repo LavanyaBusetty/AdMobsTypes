@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AdMobs</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_app_id">ca-app-pub-5474917036365304~7603660025</string>
+    <string name="banner_unit_id">ca-app-pub-5474917036365304/6537990366</string>
+    <string name="banner_ad">Banner Ad</string>
+    <string name="interstitial_ad">Interstitial Ad</string>
+    <string name="rewarded_video_ad">Rewarded Video Ad</string>
+    <string name="load_interstitial_ad">Load Interstitial Ad</string>
+    <string name="transited_activity">Transited Activity</string>
+    <string name="available_coins">Available Coins : 00 </string>
+    <string name="earn_coins_by_watching_a_video">Earn coins by watching a video</string>
+    <string name="rewarded_coins">Available Coins : 15</string>
+
+</resources>
